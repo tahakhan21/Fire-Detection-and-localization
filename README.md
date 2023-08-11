@@ -26,9 +26,10 @@ Project Structure:** Our project is structured into two main components:
 - OpenCV: Library instrumental in image and video processing.
 - React Native : App development for alert and see location of fire
 - Firebase : Utilize Firebase database for user login information storage across both the app and desktop platforms, while also enabling automatic call/sms notifications upon fire detection and storing corresponding images.
--** 
-Contribution Guidelines:** We enthusiastically welcome contributions from the open-source community. Whether you possess expertise in computer vision or simply have a passion for development, your involvement can significantly enhance fire safety and detection.
-**
-Acknowledgments:** We extend our heartfelt appreciation to the YOLOv5 community for their remarkable contributions in the realm of computer vision. Special gratitude to all the dedicated contributors who have aided in dataset curation and model enhancement.
-**
-Contact Information:** For inquiries, contributions, or model requests, please don't hesitate to contact [Tahaasghar21@gmail.com]. We are eager to engage in further discussions about this impactful project.
+
+ 
+**Contribution Guidelines:** We enthusiastically welcome contributions from the open-source community. Whether you possess expertise in computer vision or simply have a passion for development, your involvement can significantly enhance fire safety and detection.
+
+**Acknowledgments:** We extend our heartfelt appreciation to the YOLOv5 community for their remarkable contributions in the realm of computer vision. Special gratitude to all the dedicated contributors who have aided in dataset curation and model enhancement.
+
+**Contact Information:** For inquiries, contributions, or model requests, please don't hesitate to contact [Tahaasghar21@gmail.com]. We are eager to engage in further discussions about this impactful project.
