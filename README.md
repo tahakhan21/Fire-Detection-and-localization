@@ -1,8 +1,8 @@
 **Project Description:** The Fire Detection and Localization project is an advanced computer vision application designed to accurately detect and pinpoint the location of fires using cutting-edge algorithms. By harnessing the capabilities of the pre-trained YOLO_v5 model, we have further refined its performance through extensive training on a comprehensive dataset containing 8000 images of fire and smoke. The outcome is a highly reliable and precise fire detection system with remarkable accuracy.
 
 **Key Advantages:** Cutting-Edge Detection: Our fine-tuned YOLO_v5 model excels in recognizing fire and smoke patterns, establishing itself as a dependable solution for real-world fire detection scenarios.
-**
-Ready-to-Deploy Model:** The trained YOLO_v5 model is readily deployable, simplifying integration into various applications without the need for extensive retraining.
+
+**Ready-to-Deploy Model:** The trained YOLO_v5 model is readily deployable, simplifying integration into various applications without the need for extensive retraining.
 
 **User-Friendly Desktop App & Android App:** Our project features a user-intuitive desktop application that offers clear and understandable visualizations of fire detection outcomes. This ensures accessibility for both technical and non-technical users.
 
@@ -11,14 +11,15 @@ Ready-to-Deploy Model:** The trained YOLO_v5 model is readily deployable, simpli
 **Open-Source Collaboration:** We actively welcome contributions from the open-source community to enrich the model's capabilities and broaden its applications across diverse industries and domains.
 
 **Utilization Instructions:** Launch the Fire Detection and Localization desktop application, where you can upload an image or stream from a video source to initiate fire detection. The application will promptly present identified fire and smoke areas enclosed within bounding boxes, enabling users to take prompt and appropriate actions.
-**
-Project Structure:** Our project is structured into two main components:
+
+**Project Structure:** Our project is structured into two main components:
 
 **Model Refinement:** This involves the meticulous fine-tuning of the pre-trained YOLO_v5 model using a curated dataset of 8000 fire and smoke images.
 
+
 **Deployment:** We have developed an intuitive desktop application for real-time fire detection using the trained model. Also android app in which we user see the location of fire.
 
-**Technology Stack: **We leverage the following technologies:
+**Technology Stack:**  We leverage the following technologies:
 
 - YOLO_v5: Pre-trained model for fire detection.
 - Python: Backend scripting for both model refinement and application development.
